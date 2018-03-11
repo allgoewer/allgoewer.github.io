@@ -1,6 +1,6 @@
 baseURL = "https://llgoewer.de/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Maiks site"
 theme = 'xmin'
 enableRobotsTXT = true
 
