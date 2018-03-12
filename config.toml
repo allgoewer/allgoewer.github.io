@@ -5,16 +5,16 @@ theme = 'xmin'
 enableRobotsTXT = true
 
 [[menu.main]]
-    name = "Home"
+    name = "/home/maik"
     url = "/"
     weight = 1
 
 [[menu.main]]
-    name = "Categories"
+    name = "~/categories"
     url = "/categories"
     weight = 2
 
 [[menu.main]]
-    name = "GPG fingerprint"
+    name = "~/gpg"
     url = "/gpg"
     weight = 3
