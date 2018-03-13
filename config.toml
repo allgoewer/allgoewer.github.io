@@ -1,4 +1,4 @@
-baseURL = "https://llgoewer.de/"
+baseURL = "https://www.llgoewer.de/"
 languageCode = "en-us"
 title = "Maiks site"
 theme = 'xmin'
