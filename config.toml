@@ -15,6 +15,6 @@ enableRobotsTXT = true
     weight = 2
 
 [[menu.main]]
-    name = "~/gpg"
-    url = "/gpg"
+    name = "~/keys"
+    url = "/keys"
     weight = 3
