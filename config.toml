@@ -18,3 +18,8 @@ enableRobotsTXT = true
     name = "~/keys"
     url = "/keys"
     weight = 3
+
+[[menu.git]]
+    name = "~/git"
+    url = "https://www.git.llgoewer.de/"
+    weight = 4
