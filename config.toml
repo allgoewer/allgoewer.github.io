@@ -12,14 +12,14 @@ enableRobotsTXT = true
 [[menu.main]]
     name = "~/categories"
     url = "/categories"
-    weight = 2
+    weight = 1
 
 [[menu.main]]
     name = "~/keys"
     url = "/keys"
-    weight = 3
+    weight = 1
 
 [[menu.main]]
     name = "~/git"
     url = "https://www.git.llgoewer.de/"
-    weight = 4
+    weight = 1
