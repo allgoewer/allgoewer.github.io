@@ -4,6 +4,9 @@ title = "Maiks site"
 theme = 'xmin'
 enableRobotsTXT = true
 
+[params]
+    commitUrl = 'https://git.llgoewer.de/maik/homepage/commit/'
+
 [[menu.main]]
     name = "/home/maik"
     url = "/"

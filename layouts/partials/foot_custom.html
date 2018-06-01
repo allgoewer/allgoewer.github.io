@@ -1,0 +1,3 @@
+{{ if .GitInfo -}}
+<p>Last modified {{ .Page.Lastmod }} (commit <a href="{{ .Site.Params.commitUrl }}{{ .GitInfo.Hash }}">{{ .GitInfo.AbbreviatedHash }}</a>)</p>
+{{ end }}
