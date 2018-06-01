@@ -1,0 +1,26 @@
+---
+baseURL: https://www.llgoewer.de/
+languageCode: en-us
+title: Maiks site
+theme: xmin
+enableRobotsTXT: true
+enableGitInfo: true
+
+params:
+  commitUrl: https://git.llgoewer.de/maik/homepage/commit/
+
+menu:
+  main:
+    - name: /home/maik
+      url: /
+      weight: 1
+    - name: ~/categories
+      url: /categories/
+      weight: 2
+    - name: ~/keys
+      url: /keys/
+      weight: 3
+    - name: ~/git
+      url: https://git.llgoewer.de/
+      weight: 4
+...
