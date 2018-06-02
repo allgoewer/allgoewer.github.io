@@ -5,6 +5,9 @@ title: Maiks site
 theme: xmin
 enableRobotsTXT: true
 enableGitInfo: true
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
 
 params:
   commitUrl: https://git.llgoewer.de/maik/homepage/commit/
@@ -14,9 +17,6 @@ menu:
     - name: /home/maik
       url: /
       weight: 1
-    - name: ~/categories
-      url: /categories/
-      weight: 2
     - name: ~/keys
       url: /keys/
       weight: 3
