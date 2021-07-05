@@ -10,7 +10,7 @@ disableKinds:
   - taxonomyTerm
 
 params:
-  commitUrl: https://git.llgoewer.de/maik/homepage/commit/
+  commitUrl: https://github.com/allgoewer/homepage/commit/
 
 menu:
   main:
