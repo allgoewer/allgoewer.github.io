@@ -21,9 +21,12 @@ menu:
       url: /keys/
       weight: 2
     - name: ~/git
-      url: https://git.llgoewer.de/
+      url: https://github.com/allgoewer/
       weight: 3
     - name: ~/public
       url: https://s3.llgoewer.de/minio/public/
       weight: 4
+    - name: ~/notes
+      url: https://notes.llgoewer.de/
+      weight: 5
 ...
