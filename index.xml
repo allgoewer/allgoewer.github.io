@@ -1,2 +1,4 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>~/ on Maiks site</title><link>https://www.llgoewer.de/</link><description>Recent content in ~/ on Maiks site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 11 Mar 2018 18:09:46 +0100</lastBuildDate><atom:link href="https://www.llgoewer.de/index.xml" rel="self" type="application/rss+xml"/><item><title>Public keys</title><link>https://www.llgoewer.de/keys/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.llgoewer.de/keys/</guid><description>GPG fingerprint C1C8 DEAE 8F08 1F56 EA62 F486 D60B 4575 4830 D098 Minisign Download
-untrusted comment: minisign public key EC93F0E29F981B73 RWRzG5if4vCT7PZJMQPBe8gifElk11b8jSBbbNf4v7q6mZmhLSWWbDHZ</description></item></channel></rss>
+untrusted comment: minisign public key EC93F0E29F981B73 RWRzG5if4vCT7PZJMQPBe8gifElk11b8jSBbbNf4v7q6mZmhLSWWbDHZ SSH Download
+Download (signature)
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEBTaKcJ7h5W4TOUdl+upqiwrPAsBXEMmG9m6Bi527+y maik@io</description></item></channel></rss>
