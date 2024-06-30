@@ -1,3 +1,7 @@
+{{ if .IsHome }}
+<script src="css/onekjo.js"></script>
+{{ end }}
+
 {{ if .GitInfo }}
 <p>Last modified <a href="{{ .Site.Params.commitUrl }}{{ .GitInfo.Hash }}">{{ .Page.Lastmod }}</a></p>
 {{ end }}
